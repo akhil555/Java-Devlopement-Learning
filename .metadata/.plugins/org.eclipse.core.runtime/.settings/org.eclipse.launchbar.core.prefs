@@ -1,0 +1,4 @@
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:launchConfiguration,org.eclipse.launchbar.core.descriptorType.default\:ThreadGroupDemo,org.eclipse.launchbar.core.descriptorType.default\:TestShutdown1
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:launchConfiguration/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:launchConfiguration/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local

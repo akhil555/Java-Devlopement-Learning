@@ -1,7 +1,5 @@
 package core_java_tutorial;
 //How to perform single task by multiple threads?
-
-//Note: Each thread run in a separate callstack.
 public class Thread_multitasking extends Thread {
 	
 		 public void run(){  
